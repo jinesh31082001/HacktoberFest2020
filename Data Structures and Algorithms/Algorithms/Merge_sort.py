@@ -28,8 +28,8 @@ def mergeSort(arr):
 		
 		while j < len(R): 
 			arr[k] = R[j] 
-			j+= 1
-			k+= 1
+			j+=1
+			k+=1
 
 # Code to print the list 
 def printList(arr): 
